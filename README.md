@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rorblog
+getting started with ror
+>>>>>>> 99909b9cbb920fa94a0f942029da9b180bb30e12
