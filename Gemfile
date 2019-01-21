@@ -30,6 +30,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~>3.2.0'
 gem 'jquery-rails'
 
+gem 'webpacker', '~> 3.5'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
